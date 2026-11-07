@@ -23,7 +23,7 @@ but a standard 20 pin header can also be used. Neither of these is in the BOM
 
 #### Back
 
-<img src="./images/IMG_0657.jpeg" width="800" height="800">
+<img src="./images/IMG_0657.jpeg" width="800">
 
 Once assembled the keyboard PCB can be tested by inserting a couple of keyswitches
 and connecting to a Model 1. It doesnt need all the keyswitches to work.
@@ -46,7 +46,7 @@ Ideally CA glue or epoxy should be used when joining the 2 parts.
 Then 8x Brass M2 heat set inserts need to be installed into the frame.
 These are for the for the PCB to be screwed to.
 
-<img src="./images/IMG_0687.jpeg" width="800" height="800">
+<img src="./images/IMG_0687.jpeg" width="800">
 
 ## Main Assembly
 
@@ -61,7 +61,7 @@ PCB mounting screws to be used.
 
 In the donar keyboard the foam layer was stuck to PCB back using adhesive
 
-<img src="./images/IMG_0665.jpeg" width="800" height="800">
+<img src="./images/IMG_0665.jpeg" width="800">
 
 ### Main PCB
 
@@ -72,20 +72,20 @@ When attaching the PCB to the frame (using M2 bolts), they should be very lightl
 tightened. The screws are just to locate the PCB, leaving them loose will allow
 The PCB to move, and improve sound quality.
 
-<img src="./images/IMG_0689.jpeg" width="800" height="800">
+<img src="./images/IMG_0689.jpeg" width="800">
 
 ### Thin Cotton
 
 The cotton layers are to provide isolation from the PCB to the back of the Key switches
 These layers need to be aligned to the individual key switch holes
 
-<img src="./images/IMG_0666.jpeg" width="800" height="800">
+<img src="./images/IMG_0666.jpeg" width="800">
 
 ### Poron Isolation Foam 
 
 This is a thick main sound deadening foam layer which sit around the keyswitches
 
-<img src="./images/IMG_0690.jpeg" width="800" height="800">
+<img src="./images/IMG_0690.jpeg" width="800">
 
 ### Keyboard Plate
 
@@ -96,30 +96,30 @@ Surrounding the PCB area is a brim which the keyboard plate rests on.
 This provides support to the keys via the plate, removing stress on the PCB.
 While the plate rests on the brim, it should not extend over it, and may need to be trimmed.
 
-<img src="./images/IMG_0691.jpeg" width="800" height="800">
+<img src="./images/IMG_0691.jpeg" width="800">
 
 A cutout in the plate may be needed to allow Power LED (if installed).
 
-<img src="./images/IMG_0682.jpeg" width="800" height="800">
+<img src="./images/IMG_0682.jpeg" width="800">
 
 ### Keyswitches
 
 Key switches installed through plate into sockets.
 Key switches are required to secures the plate and the foam layers undeneath
 
-<img src="./images/IMG_0694.jpeg" width="800" height="800">
+<img src="./images/IMG_0694.jpeg" width="80">
 
 ### Keycaps
 
 Finally, the Keycaps can be attached.
 
-<img src="./images/IMG_0696.jpeg" width="800" height="800">
+<img src="./images/IMG_0696.jpeg" width="800">
 
 ### Completed Board
 
 You should have something like this.
 
-<img src="./images/IMG_0701.jpeg" width="800" height="800">
+<img src="./images/IMG_0701.jpeg" width="800">
 
 ## Bezel
 

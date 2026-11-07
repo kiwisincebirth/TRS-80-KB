@@ -24,6 +24,21 @@ These components need to be purchased. Items marked as (*) are optional
 | Z1, Z2          | 74LS05 DIP                         | 2        |
 | Z3              | 74LS240 DIP                        | 1        |
 
+### FFC Cable
+
+This is link to the boards, most important is to get 40 pin, and 0.5mm socket. 
+Many sellers have them. 
+
+[Aliexpress FFC Adapter Board](https://www.aliexpress.com/item/1005007617729176.html)
+
+For the cable (pictured) is 40P, 0.5MM, 100mm, Type A from this link. 
+
+[Aliexpress FFC Adapter Board](https://www.aliexpress.com/item/1005008319529888.html)
+
+When installed the cable should look like this. I used odd numbered pins 1-39
+
+<img src="./images/FFC_Cable.jpg" width="600">
+
 ## Keyboard Parts
 
 For the keyboard itself you will need to source the following

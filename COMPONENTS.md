@@ -26,7 +26,7 @@ These components need to be purchased. Items marked as (*) are optional
 
 For the keyboard itself you will need to source the following
 * MX Keycaps, with style matching your needs.
-* MX Key Switches, any brand and type (not low profile) will do.
+* MX Key Switches (minimum 59), any brand and type (but not low profile) will do.
 * MX Key Stabilisers, either PCB or Plate mounted are supported.
 * Keyboard Plate (67 key) compatible with the chosen stabilisers.
 * (Optional) Keyboard foam layers for cushioning and noise isolation.

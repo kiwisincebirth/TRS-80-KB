@@ -38,9 +38,16 @@ Ideally CA glue or epoxy should be used when joining the 2 parts.
 Then 8x Brass M2 heat set inserts need to be installed into the frame.
 These are for the for the PCB to be screwed to.
 
+<img src="./images/IMG_0687.jpeg" width="800" height="800">
+
 ## Main Assembly
 
-Assembly of the keyboard is done in layers. Order of assembly
+Assembly of the keyboard is done in layers. 
+
+When installing each layer you need to ensure that foam layers are
+trimmed fit within the outline of the PCB, so the sit down inside 
+the brim of the internal frame, and holes are added to allow 
+PCB mounting screws to be used.
 
 ### Foam Layer Under PCB
 
@@ -48,28 +55,63 @@ In the donar keyboard the foam layer was stuck to PCB back using adhesive
 
 <img src="./images/IMG_0665.jpeg" width="800" height="800">
 
-* The main keyboard PCB itself, ensure it is fully assembled first.
-* Use short M2 screws to attach the PCB to the internal frame.
-* Thin cotton/plastic isolation layers, that sit under (and isolate PCB) from the switches.
-* Thick main sound deadening Poron Isolation Foam.
-* The keyboard plate, including plate mounted key stabilisers.
-* Key switches installed through plate into sockets.
-* Key switches are required to secures the plate and the foam layers undeneath
-* Finally, the Keycaps can be attached.
+### Main PCB
 
-When installing each layer you need to ensure that foam layers are
-trimmed fit within the outline of the PCB, so the sit down inside the brim of the internal frame;
-and holes are added to allow PCB mounting screws to be used.
+The main keyboard PCB itself, ensure it is fully assembled first. 
+Use short M2 screws to attach the PCB to the internal frame.
+
+When attaching the PCB to the frame (using M2 bolts), they should be very lightly
+tightened. The screws are just to locate the PCB, leaving them loose will allow
+The PCB to move, and improve sound quality.
+
+<img src="./images/IMG_0689.jpeg" width="800" height="800">
+
+### Thin Cotton
+
+The cotton layers are to provide isolation from the PCB to the back of the Key switches
+These layers need to be aligned to the individual key switch holes
+
+<img src="./images/IMG_0666.jpeg" width="800" height="800">
+
+### Poron Isolation Foam 
+
+This is a thick main sound deadening foam layer which sit around the keyswitches
+
+<img src="./images/IMG_0666.jpeg" width="800" height="800">
+
+### Keyboard Plate
+
+The keyboard plate, including plate mounted key stabilisers (not shown).
+This is the layer to provides the main support structure for the keyswitches
 
 Surrounding the PCB area is a brim which the keyboard plate rests on.
 This provides support to the keys via the plate, removing stress on the PCB.
 While the plate rests on the brim, it should not extend over it, and may need to be trimmed.
 
+<img src="./images/IMG_0691.jpeg" width="800" height="800">
+
 A cutout in the plate may be needed to allow Power LED (if installed).
 
-When attaching the PCB to the frame (using M2 bolts), they should be very lightly
-tightened. The screws are just to locate the PCB, leaving them loose will allow
-The PCB to move, and improve sound quality.
+<img src="./images/IMG_0682.jpeg" width="800" height="800">
+
+### Keyswitches
+
+Key switches installed through plate into sockets.
+Key switches are required to secures the plate and the foam layers undeneath
+
+<img src="./images/IMG_0694.jpeg" width="800" height="800">
+
+### Keycaps
+
+Finally, the Keycaps can be attached.
+
+<img src="./images/IMG_0696.jpeg" width="800" height="800">
+
+### Completed Board
+
+You should have something like this.
+
+<img src="./images/IMG_0701.jpeg" width="800" height="800">
 
 ## Bezel
 

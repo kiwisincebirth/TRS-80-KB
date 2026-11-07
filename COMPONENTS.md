@@ -4,7 +4,7 @@
 
 This will need to be purchased produced via standard PCB production houses.
 
-The Gerber Files are located here [Gerber Files]()
+The Gerber Files are located here [Gerber Files](./pcb)
 
 ## PCB Components
 
@@ -59,7 +59,7 @@ For my build I choose the “Epomaker Alua F65 (Blue)” keyboard.
 At the time of writing it is listed as $65 USD (on official website),
 but can be found cheaper depending on where you buy it.
 
-https://epomaker.com/products/epomaker-aula-f65
+[epomaker-aula-f65](https://epomaker.com/products/epomaker-aula-f65)
 
 Of course any keyboard can be used, the most important thing is to
 look for a hot-swappable keyboard with the matching key arrangement.
@@ -68,20 +68,22 @@ Pay careful attention to the bottom row, and right column).
 The only slight disadvantage of this keyboard was it didn’t have a “Home”
 (to replace Clear) key so I choose to use the “Delete” key instead.
 
-
 ## 3D Printed Parts
+
+The 3d Printed Parts are provided in 3MF format, and were printed on a Bambu X2D
 
 ### Keyboard Frame
 
+[Keyboard Frame](./parts/Keyboard%20Base%20Version%203.3mf)
+
 ### Bezel
+
+[Keyboard Bezel](./parts)
 
 ## Other Parts
 
-As well as the components needed to build the PCB (see BOM) you will also
-need (8x) M2 bolts to mount the PCB, and matching heat set inserts.
-
 In addition to the components required to build the PCB you will need
 to source the following mounting hardware
-* (8x) M2 bolts to mount the PCB,
+* (8x) M2 bolts to mount the PCB
 * (8x) M2 heat set inserts.
 

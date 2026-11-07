@@ -1,7 +1,7 @@
 
 # Modern TRS-80 Model 1 Keyboard
 
-![Picture Of Keyboard]()
+![Picture Of Keyboard](./images/IMG_0712.jpeg)
 
 ## Introduction
 
@@ -28,23 +28,22 @@ The keyboard layout is based on the 65% (67 key) keyboard layout.
 This is similar to a keyboard on a laptop without the function key row.
 The keyboard design utilises 64 of these keys, 5 of which are optional.
 
-Most keys have 1 to 1 replacements on the modern keyboard except for 
+Some things to Note
+* Most keys have 1 to 1 replacements on the modern keyboard except for 
 the Break, and Clear keys. I chose to use the ESC and Home keys as 
 substitutes. You can get custom key caps, but this is not required
-
-Also there are two duplicate keys Left and Right arrow keys are 
+* There are two duplicate keys Left and Right arrow keys are 
 mapped to Delete, and Tab keys.
-
-The CAPS Lock Key has no matching function in the TRS-80 and needs
+* The CAPS Lock Key has no matching function in the TRS-80 and needs
 a specific driver to be supported.
-Optional Keys for Ctrl, Fn, F1, F2, F3, can also be installed
+* Optional Keys for Ctrl, Fn, F1, F2, F3, can also be installed
 these also need custom software to use them.
 
-![Picture of Key Layout]()
+![Picture of Key Layout](./images/KeyboardLayout.png)
 
 An upgraded Level 2 ROM provides support for the modified key mappings
 e.g. several shifted number keys map to different symbols. This is
-compatible with most operating systems.
+compatible with ALL operating systems that have been tested.
 
 ## Components Provided
 

@@ -96,7 +96,7 @@ Surrounding the PCB area is a brim which the keyboard plate rests on.
 This provides support to the keys via the plate, removing stress on the PCB.
 While the plate rests on the brim, it should not extend over it, and may need to be trimmed.
 
-<img src="./images/IMG_0691.jpeg" width="800">
+<img src="./images/IMG_0692.jpeg" width="800">
 
 A cutout in the plate may be needed to allow Power LED (if installed).
 

@@ -40,10 +40,13 @@ These are for the for the PCB to be screwed to.
 
 ## Main Assembly
 
-Assembly of the keyboard is done in layers, starting with the 3D printed internal frame.
+Assembly of the keyboard is done in layers. Order of assembly
 
-Order of assembly
-* Foam layer under keyboard, this might be stuck to PCB back
+### Foam Layer Under PCB
+
+In the donar keyboard the foam layer was stuck to PCB back using adhesive
+<img src="./images/IMG_0665.jpeg" width="400" height="300">
+
 * The main keyboard PCB itself, ensure it is fully assembled first.
 * Use short M2 screws to attach the PCB to the internal frame.
 * Thin cotton/plastic isolation layers, that sit under (and isolate PCB) from the switches.

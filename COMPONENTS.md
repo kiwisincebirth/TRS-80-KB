@@ -6,6 +6,8 @@ This will need to be purchased produced via standard PCB production houses.
 
 The Gerber Files are located here [Gerber Files](./pcb)
 
+<img src="./images/IMG_0658.jpeg" width="800" height="800">
+
 ## PCB Components
 
 These components need to be purchased. Items marked as (*) are optional

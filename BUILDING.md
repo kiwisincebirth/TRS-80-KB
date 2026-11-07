@@ -19,7 +19,7 @@ but a standard 20 pin header can also be used. Neither of these is in the BOM
 
 #### Front
 
-<img src="./images/IMG_0658.jpeg" width="800" height="800">
+<img src="./images/IMG_0658.jpeg" width="800">
 
 #### Back
 

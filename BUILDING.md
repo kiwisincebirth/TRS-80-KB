@@ -17,6 +17,14 @@ Notes when assembling the PCB
 I suggest using the FFC ribbon cable to attach the keyboard to the main board,
 but a standard 20 pin header can also be used. Neither of these is in the BOM
 
+#### Front
+
+<img src="./images/IMG_0658.jpeg" width="800" height="800">
+
+#### Back
+
+<img src="./images/IMG_0657.jpeg" width="800" height="800">
+
 Once assembled the keyboard PCB can be tested by inserting a couple of keyswitches
 and connecting to a Model 1. It doesnt need all the keyswitches to work.
 
@@ -77,7 +85,7 @@ These layers need to be aligned to the individual key switch holes
 
 This is a thick main sound deadening foam layer which sit around the keyswitches
 
-<img src="./images/IMG_0666.jpeg" width="800" height="800">
+<img src="./images/IMG_0690.jpeg" width="800" height="800">
 
 ### Keyboard Plate
 

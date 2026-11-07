@@ -107,7 +107,7 @@ A cutout in the plate may be needed to allow Power LED (if installed).
 Key switches installed through plate into sockets.
 Key switches are required to secures the plate and the foam layers undeneath
 
-<img src="./images/IMG_0694.jpeg" width="80">
+<img src="./images/IMG_0694.jpeg" width="800">
 
 ### Keycaps
 

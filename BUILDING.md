@@ -45,7 +45,7 @@ Assembly of the keyboard is done in layers. Order of assembly
 ### Foam Layer Under PCB
 
 In the donar keyboard the foam layer was stuck to PCB back using adhesive
-<img src="./images/IMG_0665.jpeg" width="400" height="300">
+<img src="./images/IMG_0665.jpeg" width="800" height="800">
 
 * The main keyboard PCB itself, ensure it is fully assembled first.
 * Use short M2 screws to attach the PCB to the internal frame.

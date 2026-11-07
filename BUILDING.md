@@ -81,7 +81,7 @@ These layers need to be aligned to the individual key switch holes
 
 <img src="./images/IMG_0666.jpeg" width="800">
 
-### Poron Isolation Foam 
+### Key-switch Foam 
 
 This is a thick main sound deadening foam layer which sit around the keyswitches
 

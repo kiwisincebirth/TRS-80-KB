@@ -78,6 +78,10 @@ but can be found cheaper depending on where you buy it.
 
 [epomaker-aula-f65](https://epomaker.com/products/epomaker-aula-f65)
 
+The big advantage with this keyboad as it contains many of the parts you will need
+
+<img src="./images/IMG_0680.jpeg" width="600">
+
 Of course any keyboard can be used, the most important thing is to
 look for a hot-swappable keyboard with the matching key arrangement.
 Pay careful attention to the bottom row, and right column).

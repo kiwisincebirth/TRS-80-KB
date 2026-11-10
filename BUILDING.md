@@ -30,12 +30,15 @@ and connecting to a Model 1. It doesnt need all the keyswitches to work.
 
 ## Internal Frame
 
-The (3D Printed) internal frame mounts to 5 keyboard case mount points,
+[Keyboard Base 3MF](./parts/Keyboard%20Base%20V1.3mf)
+
+The (3D Printed) internal base frame mounts to 5 keyboard case mount points,
 and additionally it is supported from underneath by 3 central mounting posts.
 
 The full internal frame cannot be printed on a typical size 3D Printer and
 has been broken into 2 pieces using a connecting dovetail joint. You need 
-need a bed size of 180mm to print this.
+need a bed size of 180mm to print these 2 halves.
+
 The internal frame can be printed in any material (I used PLA), since the part
 is quite thick, and well-supported in the case.
 
@@ -123,12 +126,24 @@ You should have something like this.
 
 ## Bezel
 
-The bezel has a different aesthetic, to the traditional TRS-80 bezel.
+[Keyboard Bezel 3MF](./parts/Keyboard%20Bezel%20V1.3mf)
 
-Printing was done without supports, with the top of the bezel facing the build plate,
+The (3D Printed) bezel attaches to the other case surrounding the keyboard.
+It has a different cutout matching the keyboard layout and 
+a different aesthetic, to the traditional TRS-80 bezel.
+
+There are six varients of the Bezel depending on the use of optional Keys.
+This includes CTRL, FN, F1-F3. Please print the correct varient.
+
+The Bezel cannot be printed on a typical size 3D Printer and
+needs to be broken into 2 pieces and joined after printing. 
+There are 2 examples of this, either using connecting Dowels, 
+or using a Dovetail joint. You will need to cut this in your slicer. 
+
+Printing is done without supports, with the top of the bezel facing the build plate,
 this means you can achieve a pattern based on the texture of the build plate used.
+Bezel can be printed in any material, I used Black PLA
 
-The Bezel cannot be printed on a regular size 3d Printer,
-and has been broken into 2 pieces using dowels to connect the 2 parts.
+Once Printed you need to assemble the 2 parts together.
 
 

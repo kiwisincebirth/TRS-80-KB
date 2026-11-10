@@ -95,11 +95,11 @@ The 3d Printed Parts are provided in 3MF format, and were printed on a Bambu X2D
 
 ### Keyboard Frame
 
-[Keyboard Frame](./parts/Keyboard%20Base%20Version%203.3mf)
+[Keyboard Frame](./parts/Keyboard%20Base%20V1.3mf)
 
 ### Bezel
 
-[Keyboard Bezel](./parts)
+[Keyboard Bezel](./parts/Keyboard%20Bezel%20V1.3mf)
 
 ## Other Parts
 

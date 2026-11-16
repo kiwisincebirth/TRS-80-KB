@@ -11,16 +11,12 @@ And is based on a modern mechanical keyboard design.
 
 The main features are:
 
-* Uses standard ANSI (US) keyboard layout.
-* Follows the 65% standard keyboard design.
-* Uses MX key switches and standard keycaps
-* Utilises hot-swappable key switches.
+* Uses standard ANSI (US) keyboard layout, based on 65% design.
+* Uses modern shifted characters, supported by upgraded Level 2 ROM.
+* Uses Cherry MX key switches (hot swappable) and modern keycaps
+* Supports either PCB or Plate mounted stabilisers.
 * Has standard 20 pin connector suitable for existing motherboards.
-* Supports either PCB (Cherry) or Plate mounted stabilisers.
-* Optional CTRL, CAPS, FN, F1, F2, F3 keys with suitable software
-
-A modern mechanical keyboard is built in layers the following is a 
-Explosion of a modern typical keyboard
+* Optional CTRL, CAPS, FN, F1, F2, F3 keys with suitable software.
 
 ## Keyboard Layout
 

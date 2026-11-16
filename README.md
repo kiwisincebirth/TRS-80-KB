@@ -46,7 +46,7 @@ compatible with ALL operating systems that have been tested.
 What is provided as part of this project
 
 * 3D Printed keyboard base plate, internal mounting frame.
-* 3D Printed Model 1 case top bezel.
+* 3D Printed Model 1 case top bezel, with different optional key cutouts
 * Keyboard PCB with standard 20 pin connector.
 * Level 2 ROM supporting changed key mappings.
 
@@ -56,7 +56,7 @@ See the separate [Build Guide](BUILDING.md) for detailed instruction.
 
 ## Software
 
-Provided by Rev 1.4 ROM replacement [Model 1 Level 2 Rev 1.4 ROM](rom/MDL1REV4.bin)
+An upgraded Level 2 Rev 1.4 ROM [Model 1 Level 2 Rev 1.4 ROM](rom/MDL1REV4.bin) provides keyboard mapping support
 
 The source code is available in the [TRS-80-ROMS](https://github.com/kiwisincebirth/TRS-80-ROMS) repository.
 

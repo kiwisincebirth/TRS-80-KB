@@ -69,7 +69,8 @@ This is the amended keyboard Matrix
 ## Limitations
 
 * No dedicated @ Key, it has been removed replaced with Shift-2.
-* Any software that provides its own KB driver, may have issues with the modified layout.
+* Any software that provides its own KB driver, may have issues. Known Issues
+* * Electric Pencil 2.0z
 * Euro or British keys are not supported e.g. $ vs GBP poind sign.
 * This design still has the ghost keys design flaw. This could be fixed with modified PCB
 
